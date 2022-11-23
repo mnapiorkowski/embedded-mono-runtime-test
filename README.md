@@ -1,2 +1,2 @@
-# embedded-mono-runtime-test
-Example of embedded Mono runtime usage in C++
+# Embedded Mono runtime - example
+Demo is destined for Windows. You need to have Mono installed.
